@@ -15,7 +15,7 @@ require './models/vacation'
 
 # * Routes *
 get '/' do
-  "This is a vacation RESTful api.."
+  "Oh Boy.... REST REST RESTful vacation api"
 end
 
 
